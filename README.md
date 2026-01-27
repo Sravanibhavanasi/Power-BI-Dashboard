@@ -1,11 +1,11 @@
-# Power-BI-Dashboard
+## Power-BI-Dashboard
 Recommended Structure and Order
 
-1. Project Title
+**1. Project Title**
 
 Sales Performance Dashboard of AWESOME Chocolates– Power BI Project
 
-2.Short Description / Process
+**2.Short Description / Process**
 
 An interactive Power BI dashboard designed to analyze sales, profit, and shipment performance across multiple products, geographies, and salespersons.
 
@@ -14,7 +14,7 @@ The project demonstrates the process of importing raw data (Excel), transforming
 The goal is to gain actionable insights into business performance and highlight key growth areas.
 
 
-3.Tech Stack
+**3.Tech Stack**
 
 -Power BI Desktop – for data modeling and visualization
 
@@ -27,7 +27,7 @@ The goal is to gain actionable insights into business performance and highlight 
 -Canva / PowerPoint (optional) – for report layout design (if customized)
 
 
-4.Features and Highlights
+**4.Features and Highlights**
 
 -KPI Cards: Display Total Amount, Total Boxes, Shipment Count, Profit, and Profit %
 
@@ -43,12 +43,12 @@ The goal is to gain actionable insights into business performance and highlight 
 
 -Interactive Filters: Date range slicer and product filters for detailed insights
 
-5.Dashboard Preview
+**5.Dashboard Preview**
 
 <img width="948" height="533" alt="Screenshot of Power-BI dashboard" src="https://github.com/user-attachments/assets/52d8021c-b62d-4411-8880-c228cfc70400" />
 
 
-6.Key Insights
+**6.Key Insights**
 
 -Total Sales: $141M
 
@@ -63,7 +63,7 @@ The goal is to gain actionable insights into business performance and highlight 
 -Highest sales from India and USA
 
 
-7.Disclaimer
+**7.Disclaimer**
 
 This dashboard uses sample or demo data created for learning and portfolio purposes.
 No real company or client data is used.
